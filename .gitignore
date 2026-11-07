@@ -2,3 +2,5 @@
 obj/
 bin/
 .cache/
+# removes config for ZED
+*.json
